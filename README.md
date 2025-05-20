@@ -40,7 +40,7 @@ docker run -p 3000:3000 actividad-evaluativa:latest
 ## Despliegue desde DockerHub
 
 ### Descargar imagen
-docker pull camiilo03/actividad-evaluativa:latest
+docker pull camiilo03/actividad-evaluativa
 
 ### Ejecutar imagen descargada 
 docker run -p 3000:3000 camiilo03/actividad-evaluativa
