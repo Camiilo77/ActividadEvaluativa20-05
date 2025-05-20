@@ -9,7 +9,6 @@ logs
 *.log
 
 # Docker
-Dockerfile
 .dockerignore
 
 # dotenv environment files
